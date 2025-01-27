@@ -1,18 +1,18 @@
-# News Mag
+# TODEX
 
-Welcome to the News Mag project! This is a simple news magazine application.
+Welcome to the TODEX project! This is a place for programming tutorials.
 
 ## Features
 
-- Browse news articles
-- Read full articles
-- Search for articles
+- Browse programming tutorials
+- Read programming tutorials
+- Search for programming tutorials
 
 ## Installation
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/news-mag.git
+    git clone https://github.com/yourusername/TODEX.git
     ```
 2. Navigate to the project directory:
     ```sh
