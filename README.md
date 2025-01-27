@@ -29,6 +29,8 @@ Start the development server:
 ```sh
 npm start
 ```
+You will also need a .env file in the root dir with your free api key from
+https://newsapi.org/
 
 ## Contributing
 
