@@ -1,6 +1,6 @@
 import Navbar from "./components/Navbar";
 import NewsBoard from "./components/TutorialBoard";
-import { useState } from "react";
+import { useState } from "react"; 
 import { motion, useScroll } from "motion/react";
 
 const App = () => {
